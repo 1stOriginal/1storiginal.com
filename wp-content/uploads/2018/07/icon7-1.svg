@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="27px" viewBox="0 0 30 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-medical</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="17.1413587%" y1="72.1452301%" x2="84.7022738%" y2="-2.79384486%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-62.2970581%" y1="505.010986%" x2="207.327271%" y2="-471.411133%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-297.357178%" y1="122.865126%" x2="739.263916%" y2="-13.3002387%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-172.000000, -4715.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group1" transform="translate(0.000000, 1.000000)">
+                        <g id="ico-medical" transform="translate(3.000000, 145.000000)">
+                            <path d="M26.3169751,3.73039513 L26.3164566,3.72990988 C23.1981316,0.809672036 18.537281,0.76272601 15.720984,3.69295174 L15.0462407,4.39499065 L14.3264877,3.73917605 C11.1722116,0.86510608 6.43218358,0.793854308 3.72098397,3.69295174 C0.770029877,6.76328183 0.721970685,11.4966471 3.73856082,14.3258131 L13.722545,25.2635148 C14.3287607,25.897108 15.6712393,25.897108 16.2614392,25.2806519 L26.2504738,14.3380253 C29.034591,11.1856862 29.1320372,6.36288443 26.3169751,3.73039513 Z" id="SVGID_18_" stroke="url(#linearGradient-1)" stroke-width="2"></path>
+                            <path d="M11,14 C10.4477153,14 10,13.5522847 10,13 C10,12.4477153 10.4477153,12 11,12 L19,12 C19.5522847,12 20,12.4477153 20,13 C20,13.5522847 19.5522847,14 19,14 L11,14 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                            <path d="M14,9 C14,8.44771525 14.4477153,8 15,8 C15.5522847,8 16,8.44771525 16,9 L16,18 C16,18.5522847 15.5522847,19 15,19 C14.4477153,19 14,18.5522847 14,18 L14,9 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

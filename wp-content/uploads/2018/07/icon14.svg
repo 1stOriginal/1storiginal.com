@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="28px" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-science</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-73.1107272%" y1="827.840904%" x2="103.511869%" y2="-714.158416%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-7.88874483%" y1="102.330615%" x2="74.9432974%" y2="4.63151552%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-53.6655971%" y1="1501.68457%" x2="102.539062%" y2="69.2016602%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-473.266602%" y1="228.092448%" x2="332.64974%" y2="-679.760742%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-227.856445%" y1="257.977295%" x2="366.05835%" y2="-408.105469%" id="linearGradient-5">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-540.000000, -4838.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group2" transform="translate(367.000000, 0.000000)">
+                        <g id="ico-science" transform="translate(4.000000, 269.000000)">
+                            <path d="M7,14 C13,13 15.3333333,17.4827586 20,15" id="Shape" stroke="url(#linearGradient-1)" stroke-width="2"></path>
+                            <path d="M8,1 L8,11.2235368 L1.24674532,25.574203 C1.1840646,25.7073995 1.15156403,25.852792 1.15156403,26 C1.15156403,26.5522847 1.59927928,27 2.15156403,27 L23.848436,27 C23.995644,27 24.1410365,26.9674994 24.274233,26.9048187 C24.7739506,26.6696575 24.9884159,26.0739205 24.7532547,25.574203 L18,11.2235368 L18,1 L8,1 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-width="2"></path>
+                            <path d="M6,1 L20,1" id="Shape" stroke="url(#linearGradient-3)" stroke-width="2" stroke-linecap="round"></path>
+                            <circle id="Oval" fill="url(#linearGradient-4)" fill-rule="nonzero" cx="14.5" cy="23.5" r="1.5"></circle>
+                            <circle id="Oval" fill="url(#linearGradient-5)" fill-rule="nonzero" cx="10" cy="20" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

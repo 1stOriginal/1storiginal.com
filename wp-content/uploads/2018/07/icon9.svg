@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-fashion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-360.253906%" y1="1254.18701%" x2="469.616699%" y2="-29.4921875%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-851.757812%" y1="1235.85205%" x2="148.34%" y2="0.29%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-75.7789334%" y1="240.105062%" x2="120.479745%" y2="-23.6081053%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-6.32578532%" y1="94.9905396%" x2="82.99764%" y2="-71.7483521%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Cmp-Home-page-v5" transform="translate(-909.000000, -4711.000000)" stroke-width="2">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group3" transform="translate(738.000000, 1.000000)">
+                        <g id="ico-fashion" transform="translate(4.000000, 142.000000)">
+                            <path d="M8,0 L8,2" id="Shape" stroke="url(#linearGradient-1)"></path>
+                            <path d="M16,0 L16,2" id="Shape" stroke="url(#linearGradient-2)"></path>
+                            <path d="M7,6 C6.64266667,3.01075269 6.976,1.67741935 8,2 L12,4 L16,2 C16.96,1.67741935 17.2933333,3.01075269 17,6 L16,10 L16,12 L8,12 L8,10 L7,6 Z" id="Shape" stroke="url(#linearGradient-3)" stroke-linejoin="round"></path>
+                            <path d="M0,25 C0,25 5.184,28 12,28 C18.72,28 24,25 24,25 C23.04,16.2903226 16,12 16,12 L8,12 C8,12 1.92,15.3225806 0,25 Z" id="Shape" stroke="url(#linearGradient-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

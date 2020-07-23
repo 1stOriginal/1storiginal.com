@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="32px" viewBox="0 0 35 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-religion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-110.126657%" y1="182.724109%" x2="512.606534%" y2="-174.220753%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.7410714%" y1="100%" x2="226.787458%" y2="-62.2414715%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-16.889881%" y1="117.607964%" x2="100%" y2="11.359592%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-354.46167%" y1="221.969169%" x2="256.170654%" y2="-134.835379%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-63.9892578%" y1="108.542065%" x2="94.0080915%" y2="-3.060729%" id="linearGradient-5">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-906.000000, -4835.000000)" stroke-width="2">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group3" transform="translate(738.000000, 1.000000)">
+                        <g id="ico-religion" transform="translate(0.000000, 266.000000)">
+                            <path d="M10,22 L7,19 C6.3125,18.491238 6.1875,18.0610514 6.1875,17.1452798 L6.1875,15" id="Shape" stroke="url(#linearGradient-1)" stroke-linecap="round"></path>
+                            <path d="M14,29.1778019 L14,20 L0.546913578,10.4259908 C0.334843557,10.2243584 -0.0892964869,10.4259908 0.0167385239,10.7284394 L0.440878567,17.5839402 C0.546913578,18.6929183 1.07708863,19.7010802 2.03140373,20.4067935 L8,25 L8,29 C8,29.5040809 8.81764442,29.9843314 9.24178447,29.9843314 L13,29.9843314 C13.42414,30.0851476 14,29.5810666 14,29.1778019 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M22.4508993,1.08475686 C20.7468101,-0.442753645 17.9776651,-0.340919612 16.3800814,1.28842493 C14.6759922,-0.239085578 12.0133528,-0.137251544 10.4157691,1.49209299 C8.81818543,3.12143753 8.92469101,5.76912241 10.6287803,7.29663291 L16.2735759,12.1846665 C16.5930926,12.4901686 17.1256205,12.4901686 17.5516428,12.1846665 L22.6639105,6.78746274 C24.1549886,5.15811821 24.048483,2.61226736 22.4508993,1.08475686 Z" id="SVGID_3_" stroke="url(#linearGradient-3)"></path>
+                            <path d="M22,22 L25,20 C25.6875,19.491238 26,18.9157716 26,18 L26,15" id="Shape" stroke="url(#linearGradient-4)" stroke-linecap="round"></path>
+                            <path d="M19,29 L19,20 L32.4530864,10.4259908 C32.6651564,10.2243584 33.0892965,10.4259908 32.9832615,10.7284394 L32.5591214,17.5839402 C32.4530864,18.6929183 31.9229114,19.7010802 30.9685963,20.4067935 L25,25 L25,29 C25,29.5040809 24.42414,29.9843314 24,29.9843314 L20,29.9843314 C19.4698249,30.0851476 19,29.4032648 19,29 Z" id="Shape" stroke="url(#linearGradient-5)" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

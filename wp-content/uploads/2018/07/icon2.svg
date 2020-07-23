@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="22px" viewBox="0 0 32 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-tech&amp;internet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-9.66644287%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.68974304%" y1="92.4853516%" x2="96.9467163%" y2="-347.60498%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-242.608927%" y1="1224.68461%" x2="263.300621%" y2="-759.811266%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-884.281998%" y1="464.295177%" x2="981.646271%" y2="-698.676121%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-536.000000, -4591.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group2" transform="translate(367.000000, 0.000000)">
+                        <g id="ico-tech&amp;internet" transform="translate(0.000000, 22.000000)">
+                            <rect id="Rectangle" stroke="url(#linearGradient-1)" stroke-width="2" x="5" y="1" width="22" height="17" rx="3"></rect>
+                            <rect id="Rectangle-2" stroke="url(#linearGradient-2)" stroke-width="2" x="1" y="18" width="30" height="3" rx="1.5"></rect>
+                            <g id="Group" transform="translate(10.666667, 5.750000)">
+                                <path d="M3,4.89984676 C4.96923077,3.50341819 6.68717949,3.91413247 8,4.89984676" id="Shape" stroke="url(#linearGradient-3)" stroke-width="2" stroke-linecap="round"></path>
+                                <path d="M0,1.5 C3.3,-0.5 7.7,-0.5 11,1.5" id="Shape" stroke="url(#linearGradient-3)" stroke-width="2" stroke-linecap="round"></path>
+                                <path d="M5.3547444,9.25 C5.90702915,9.25 6.33333333,8.80228475 6.33333333,8.25 C6.33333333,7.69771525 5.88561808,7.25 5.33333333,7.25 C4.78104858,7.25 4.33333333,7.69771525 4.33333333,8.25 C4.33333333,8.80228475 4.80245965,9.25 5.3547444,9.25 Z" id="Oval" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

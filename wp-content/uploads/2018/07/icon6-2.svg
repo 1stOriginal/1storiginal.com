@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="18px" viewBox="0 0 32 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-design&amp;architecture</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-24.4454153%" y1="133.749346%" x2="122.452714%" y2="-22.0357356%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-18.5500372%" y1="752.546772%" x2="106.612723%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-287.610506%" y1="413.326223%" x2="416.703074%" y2="-8.4973787%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-536.004317%" y1="100%" x2="186.247173%" y2="-328.748201%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-62.8726357%" y1="100%" x2="683.47168%" y2="-328.125%" id="linearGradient-5">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="403.020919%" x2="772.439093%" y2="-27.1934108%" id="linearGradient-6">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-656.658614%" y1="418.209036%" x2="102.025%" y2="-2.19772727%" id="linearGradient-7">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-906.000000, -4657.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group3" transform="translate(738.000000, 1.000000)">
+                        <g id="ico-design&amp;architecture" transform="translate(0.000000, 88.000000)">
+                            <path d="M5,13 C5,7.35789474 9.41666667,2 15,2 C20.5833333,2 25,7.35789474 25,13" id="Shape" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M4,3 C3.44771525,3 3,2.55228475 3,2 C3,1.44771525 3.44771525,1 4,1 L25,1 C25.5522847,1 26,1.44771525 26,2 C26,2.55228475 25.5522847,3 25,3 L4,3 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                            <path d="M16,4 L14,4 C13.5,4 13,3.50526316 13,3 L13,1 C13,0.494736842 13.5,-9.57012247e-14 14,-9.57012247e-14 L16,-9.57012247e-14 C16.5,-9.57012247e-14 17,0.494736842 17,1 L17,3 C17,3.50526316 16.4166667,4 16,4 Z" id="Shape" stroke="url(#linearGradient-3)" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <path d="M26,16 L24,16 C23.5,16 23,15.5052632 23,15 L23,13 C23,12.4947368 23.5,12 24,12 L26,12 C26.5,12 27,12.4947368 27,13 L27,15 C27,15.5052632 26.4166667,16 26,16 Z" id="Shape" stroke="url(#linearGradient-4)" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <path d="M6,16 L4,16 C3.5,16 3,15.5052632 3,15 L3,13 C3,12.4947368 3.5,12 4,12 L6,12 C6.5,12 7,12.4947368 7,13 L7,15 C7,15.5052632 6.41666667,16 6,16 Z" id="Shape" stroke="url(#linearGradient-5)" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <circle id="Oval" stroke="url(#linearGradient-6)" stroke-width="2" stroke-linecap="round" cx="2" cy="2" r="2"></circle>
+                            <circle id="Oval" stroke="url(#linearGradient-7)" stroke-width="2" stroke-linecap="round" cx="28" cy="2" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

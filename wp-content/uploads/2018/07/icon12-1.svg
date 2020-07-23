@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="33px" viewBox="0 0 30 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-manufacturing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-31.5383065%" y1="95.55625%" x2="133.452099%" y2="4.9953125%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#8B64FC" offset="4.417771%"></stop>
+            <stop stop-color="#6677F7" offset="13.15%"></stop>
+            <stop stop-color="#4787F3" offset="22.65%"></stop>
+            <stop stop-color="#2D94F0" offset="32.88%"></stop>
+            <stop stop-color="#199EED" offset="44.15%"></stop>
+            <stop stop-color="#0BA5EB" offset="56.99%"></stop>
+            <stop stop-color="#02A9EA" offset="72.75%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-202.075195%" y1="559.49707%" x2="1328.51562%" y2="-696.618652%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-391.28418%" y1="543.591309%" x2="1147.24121%" y2="-651.135254%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-985.424805%" y1="512.963867%" x2="479.101562%" y2="-616.271973%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-763.576183%" y1="397.555339%" x2="202.471994%" y2="-290.205078%" id="linearGradient-5">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.37785993%" y1="100%" x2="108.148193%" y2="8.87286096%" id="linearGradient-6">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-706.967444%" y1="628.413086%" x2="143.086269%" y2="-32.6855469%" id="linearGradient-7">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#8B64FC" offset="4.417771%"></stop>
+            <stop stop-color="#6677F7" offset="13.15%"></stop>
+            <stop stop-color="#4787F3" offset="22.65%"></stop>
+            <stop stop-color="#2D94F0" offset="32.88%"></stop>
+            <stop stop-color="#199EED" offset="44.15%"></stop>
+            <stop stop-color="#0BA5EB" offset="56.99%"></stop>
+            <stop stop-color="#02A9EA" offset="72.75%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-908.000000, -4768.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group3" transform="translate(738.000000, 1.000000)">
+                        <g id="ico-manufacturing" transform="translate(2.000000, 199.000000)">
+                            <path d="M27,16 L26,16 C25.3793103,16 25,15.6214286 25,15 L25,10 C25,9.37857143 25.3793103,9 26,9 L27,9 C27.6206897,9 28,9.37857143 28,10 L28,15 C28.1034483,15.6214286 27.5172414,16 27,16 Z" id="Shape" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M3,20 C3,19.4477153 3.44771525,19 4,19 C4.55228475,19 5,19.4477153 5,20 L5,22 C5,22.5522847 4.55228475,23 4,23 C3.44771525,23 3,22.5522847 3,22 L3,20 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                            <path d="M7,20 C7,19.4477153 7.44771525,19 8,19 C8.55228475,19 9,19.4477153 9,20 L9,22 C9,22.5522847 8.55228475,23 8,23 C7.44771525,23 7,22.5522847 7,22 L7,20 Z" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                            <path d="M19,20 C19,19.4477153 19.4477153,19 20,19 C20.5522847,19 21,19.4477153 21,20 L21,22 C21,22.5522847 20.5522847,23 20,23 C19.4477153,23 19,22.5522847 19,22 L19,20 Z" id="Shape" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                            <path d="M23.0344828,20 C23.0344828,19.4477153 23.482198,19 24.0344828,19 C24.5867675,19 25.0344828,19.4477153 25.0344828,20 L25.0344828,22 C25.0344828,22.5522847 24.5867675,23 24.0344828,23 C23.482198,23 23.0344828,22.5522847 23.0344828,22 L23.0344828,20 Z" id="Shape" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+                            <path d="M24,16 L13,8 C12.4827586,7.75147884 12,8.51417397 12,9.13547689 L12,14 C12,14.6213029 11.5172414,15.3727817 11,15 L1.06896552,8.38991339 C0.551724138,8.01713165 0,8.51417397 0,9.13547689 L0,30 C0,30.4970423 0.586206897,31 1,31 L11,31 C11.4137931,31 12,30.4970423 12,30 L12,25 C12,24.5029577 12.5862069,24 13,24 L15,24 C15.4137931,24 16,24.5029577 16,25 L16,30 C16,30.4970423 16.5862069,31 17,31 L27,31 C27.4137931,31 28,30.4970423 28,30 L28,16 L24,16 Z" id="Shape" stroke="url(#linearGradient-6)" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M23.9306826,0 C22.8961998,3.10714286 27.9658691,1.82142857 27,5" id="Shape" stroke="url(#linearGradient-7)" stroke-width="2.06896552" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="32px" viewBox="0 0 28 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-food</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-120.172991%" y1="85.7460938%" x2="63.7416295%" y2="18.8212891%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.04925537%" y1="100%" x2="107.946777%" y2="-4.06697591%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.05869565%" y1="49.7456522%" x2="99.7304348%" y2="49.7456522%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.05869565%" y1="49.7456522%" x2="462.548828%" y2="-83.4655762%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.57742746%" y1="71.6866629%" x2="157.235282%" y2="-67.124721%" id="linearGradient-5">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-175.000000, -4643.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group1" transform="translate(0.000000, 1.000000)">
+                        <g id="ico-food" transform="translate(7.000000, 74.000000)">
+                            <path d="M19,25 L19.8536585,1.81992337 C19.8536585,0.766283525 20.6219512,0 21.5609756,0 L26,0" id="Shape" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M21.3785311,30 L10.5310734,30 C9.53672316,30 8.72316384,29.2289157 8.72316384,28.1686747 L8,8.02409639 C8,6.96385542 8.81355932,6 9.8079096,6 L22.1920904,6 C23.1864407,6 24,6.86746988 24,8.02409639 L23.2768362,28.1686747 C23.1864407,29.2289157 22.3728814,30 21.3785311,30 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-width="2"></path>
+                            <g id="Group" transform="translate(1.000000, 9.000000)" fill-rule="nonzero">
+                                <path d="M4,3.68 C2,3.68 0.32,2.08 0.32,0 C2.32,0 4,1.68 4,3.68 Z" id="Shape" fill="url(#linearGradient-3)"></path>
+                                <g opacity="0.5" fill="url(#linearGradient-4)" id="Shape">
+                                    <path d="M4,3.68 C2,3.68 0.32,2.08 0.32,0 C2.32,0 4,1.68 4,3.68 Z"></path>
+                                </g>
+                            </g>
+                            <circle id="Oval" stroke="url(#linearGradient-5)" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="7" cy="23" r="7"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

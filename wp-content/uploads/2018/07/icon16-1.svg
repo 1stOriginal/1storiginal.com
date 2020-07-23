@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="26px" viewBox="0 0 30 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-education</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1261.9873%" y1="149.84375%" x2="0%" y2="-73.8671875%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-12.3168945%" y1="100%" x2="108.845215%" y2="-94.8567708%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.6361267%" y1="95.9311188%" x2="78.7273481%" y2="5.04693191%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-172.000000, -4905.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group1" transform="translate(0.000000, 1.000000)">
+                        <g id="ico-education" transform="translate(3.000000, 335.000000)">
+                            <path d="M28,10 C28,9.44771525 28.4477153,9 29,9 C29.5522847,9 30,9.44771525 30,10 L30,20 C30,20.5522847 29.5522847,21 29,21 C28.4477153,21 28,20.5522847 28,20 L28,10 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                            <path d="M5,13 L5,23 C5,24.0666667 5.94117647,25 7,25 L23,25 C24.0588235,25 25,24.0666667 25,23 L25,13" id="Shape" stroke="url(#linearGradient-2)" stroke-width="2"></path>
+                            <path d="M28.5215579,11.0576685 L28.5322437,11.0518598 C29.1632455,10.713812 29.1632455,9.2632704 28.5273755,8.87884806 L15.5800754,1.84799046 C15.3265531,1.68953378 14.791531,1.68953378 14.4381236,1.87884806 L1.55690505,8.87156864 C0.821539671,9.28522529 0.821539671,10.692742 1.54955086,11.0576685 L14.4910333,18.196454 C14.7445557,18.3549107 15.2795777,18.3549107 15.6271676,18.1687796 L28.5215579,11.0576685 Z" id="Shape" stroke="url(#linearGradient-3)" stroke-width="2"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-finance</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-5.4604%" y1="96.1236667%" x2="105.5104%" y2="3.648%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-379.852295%" y1="172.928874%" x2="214.794922%" y2="-301.15153%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-26.3793945%" y1="412.215169%" x2="136.345564%" y2="-81.25%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-168.902588%" y1="630.285645%" x2="864.294434%" y2="-614.129639%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-465.325928%" y1="753.186035%" x2="700.915527%" y2="-683.441162%" id="linearGradient-5">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-368.579102%" y1="769.40918%" x2="230.065918%" y2="-687.658691%" id="linearGradient-6">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-539.000000, -4713.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group2" transform="translate(367.000000, 0.000000)">
+                        <g id="ico-finance" transform="translate(4.000000, 145.000000)">
+                            <path d="M20.24,28 L2,28 C1.032,28 0,26.9935484 0,26 L0,2 C0,1.00645161 1.032,0 2,0 L20,0 C20.968,0 22,1.00645161 22,2 L22,26 C22,26.9935484 21.208,28 20.24,28 Z" id="Shape" stroke="url(#linearGradient-1)" stroke-width="2"></path>
+                            <rect id="Rectangle-4" stroke="url(#linearGradient-2)" stroke-width="2" x="14" y="18" width="4" height="6" rx="1"></rect>
+                            <rect id="Rectangle-4" stroke="url(#linearGradient-3)" stroke-width="2" x="4" y="4" width="14" height="6" rx="1"></rect>
+                            <path d="M4,15 C3.44771525,15 3,14.5522847 3,14 C3,13.4477153 3.44771525,13 4,13 L6,13 C6.55228475,13 7,13.4477153 7,14 C7,14.5522847 6.55228475,15 6,15 L4,15 Z" id="Path-3" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                            <path d="M9,15 C8.44771525,15 8,14.5522847 8,14 C8,13.4477153 8.44771525,13 9,13 L11,13 C11.5522847,13 12,13.4477153 12,14 C12,14.5522847 11.5522847,15 11,15 L9,15 Z" id="Path-3" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+                            <path d="M9,20 C8.44771525,20 8,19.5522847 8,19 C8,18.4477153 8.44771525,18 9,18 L11,18 C11.5522847,18 12,18.4477153 12,19 C12,19.5522847 11.5522847,20 11,20 L9,20 Z" id="Path-3" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+                            <path d="M9,25 C8.44771525,25 8,24.5522847 8,24 C8,23.4477153 8.44771525,23 9,23 L11,23 C11.5522847,23 12,23.4477153 12,24 C12,24.5522847 11.5522847,25 11,25 L9,25 Z" id="Path-3" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+                            <path d="M14,15 C13.4477153,15 13,14.5522847 13,14 C13,13.4477153 13.4477153,13 14,13 L18,13 C18.5522847,13 19,13.4477153 19,14 C19,14.5522847 18.5522847,15 18,15 L14,15 Z" id="Path-3" fill="url(#linearGradient-6)" fill-rule="nonzero"></path>
+                            <path d="M4,20 C3.44771525,20 3,19.5522847 3,19 C3,18.4477153 3.44771525,18 4,18 L6,18 C6.55228475,18 7,18.4477153 7,19 C7,19.5522847 6.55228475,20 6,20 L4,20 Z" id="Path-3" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                            <path d="M4,25 C3.44771525,25 3,24.5522847 3,24 C3,23.4477153 3.44771525,23 4,23 L6,23 C6.55228475,23 7,23.4477153 7,24 C7,24.5522847 6.55228475,25 6,25 L4,25 Z" id="Path-3" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

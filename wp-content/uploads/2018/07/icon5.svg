@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="27px" viewBox="0 0 30 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-sports</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-14.4347206%" y1="81.2079001%" x2="82.1089682%" y2="3.92118317%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.05%" y1="92.8102273%" x2="333.898926%" y2="-201.312256%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-285.241699%" y1="119.232178%" x2="87.2131348%" y2="-225.653076%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-241.40625%" y1="286.844308%" x2="238.155692%" y2="144.433594%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-537.000000, -4652.000000)">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group2" transform="translate(367.000000, 0.000000)">
+                        <g id="ico-sports" transform="translate(2.000000, 83.000000)">
+                            <path d="M13,26 L16.6129032,18.6965517 C17,18.0206897 16.6129032,17.1517241 15.8387097,16.862069 L11.0967742,15.3172414 C10.3225806,15.0275862 9.93548387,14.062069 10.4193548,13.3862069 L14,7.97931034 C14.3870968,7.4 15.0645161,7.20689655 15.6451613,7.49655172 L25,12" id="Shape" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round"></path>
+                            <circle id="Oval" stroke="url(#linearGradient-2)" stroke-width="2" stroke-linecap="round" cx="4" cy="21" r="4"></circle>
+                            <circle id="Oval" stroke="url(#linearGradient-3)" stroke-width="2" stroke-linecap="round" cx="24" cy="21" r="4"></circle>
+                            <circle id="Oval" fill="url(#linearGradient-4)" fill-rule="nonzero" cx="19.5" cy="3.5" r="3.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

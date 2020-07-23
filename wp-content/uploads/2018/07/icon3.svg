@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="25px" viewBox="0 0 26 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-comsumer products</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-110.7322%" y1="408.172607%" x2="80.6829279%" y2="20.7255046%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-67.1525065%" y1="131.463216%" x2="97.3763021%" y2="-4.19514974%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-50.904541%" y1="408.532715%" x2="210.013428%" y2="-144.229126%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-5.66338433%" y1="112.677002%" x2="143.296305%" y2="-83.480835%" id="linearGradient-4">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-910.000000, -4588.000000)" stroke-width="2">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group3" transform="translate(738.000000, 1.000000)">
+                        <g id="ico-comsumer-products" transform="translate(4.000000, 18.000000)">
+                            <path d="M12.1028486,5 L20.8971514,5 C20.4607788,2.86989205 18.6842284,1 16.5,1 C14.3157716,1 12.5392212,2.86989205 12.1028486,5 Z" id="Shape" stroke="url(#linearGradient-1)"></path>
+                            <path d="M23.0566038,20 L9.94339623,20 C9.37735849,20 9,19.6407186 9,19.1017964 L9,6 C9,5.46107784 9.43396226,5 10,5 L23,5 C23.5660377,5 24,5.46107784 24,6 L24,19 C24,19.5389222 23.6226415,20 23.0566038,20 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-linecap="round"></path>
+                            <path d="M4,12 C4,9.95894428 6.12357955,8 9,8 C11.8764205,8 14,9.95894428 14,12 L4,12 Z" id="Shape" stroke="url(#linearGradient-3)" stroke-linecap="round"></path>
+                            <path d="M17.027027,24 L0.972972973,24 C0.389189189,24 0,23.6363636 0,23.0909091 L0,12.9090909 C0,12.3636364 0.389189189,12 0.972972973,12 L17.027027,12 C17.6108108,12 18,12.3636364 18,12.9090909 L18,23.0909091 C18,23.6363636 17.5135135,24 17.027027,24 Z" id="Shape" stroke="url(#linearGradient-4)" fill="#FFFFFF" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

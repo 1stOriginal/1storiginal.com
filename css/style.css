@@ -16,7 +16,7 @@ font-weight: 700;
 
 }
 .logo_txt a {color:#fff;font-size: 31px;font-family: 'Poppins', sans-serif;font-weight: 400;text-decoration: none;margin-top: 5px;display: block;}
-.menu_sec {background-color: #4e335e;padding: 1px 0 0 0;height: 61px;color: #fff;position: absolute;z-index: 3;top: 0;width: 100%; left: 0;}
+.menu_sec {background-color: #464679;padding: 1px 0 0 0;height: 61px;color: #fff;position: absolute;z-index: 3;top: 0;width: 100%; left: 0;}
 .menu_sec .navbar-inverse .navbar-nav>li>a {
     color: #000;
     font-size: 16px;
@@ -170,7 +170,7 @@ color: #000;
 
 background-color: #fff;
 }
-.price_txt h4 {color: #4d335d;font-weight: 700;font-size: 31px;font-family: 'Khand', sans-serif;text-align: center;margin-bottom: 20px;}
+.price_txt h4 {color: #9a93ff;font-weight: 700;font-size: 31px;font-family: 'Khand', sans-serif;text-align: center;margin-bottom: 20px;}
 .price_txt1 label {
 
 color: #000;
@@ -232,7 +232,7 @@ font-family: 'Khand', sans-serif;
 .price_txt2 span {color: #000;font-weight: 400;font-size: 22px;font-family: 'Poppins', sans-serif;}
 .price_txt2 a:hover {
 
-  background-color:#4e335e; 
+  background-color:#9a93ff; 
   color: #fff;
 }
 
@@ -294,7 +294,7 @@ display: table;
 margin: 0 auto;
 }
 .img_box_txt12 h6:hover {
-  color: #4e335e;
+  color: #9a93ff;
 }
 .img_box_txt12 h6 {
 transition: 0.7s all ease-in-out;
@@ -325,7 +325,7 @@ display: table;
 margin: 0 auto;
 }
 .img_box_txt h6:hover {
-  color: #4e335e;
+  color: #9a93ff;
 }
 .img_box_txt h6 {
 transition: 0.7s all ease-in-out;
@@ -368,7 +368,7 @@ margin: 17px 14px;
 }
 .ad_border a:hover {
 
-  color: #4e335e;
+  color: #9a93ff;
 }
 .ad_border a {
 transition: 0.7s all ease-in-out;
@@ -672,7 +672,7 @@ margin: 8px 0 9px 0;
 line-height: 27px;
 }
 .choose_writer a:hover {
-background-color: #4e335e;
+background-color: #9a93ff;
     color: #fff;
 
 }
@@ -681,7 +681,7 @@ background-color: #4e335e;
 transition: 0.7s all ease-in-out;
 color: #fff;
 
-background-color: #4ce1b2;
+background-color: #9a93ff;
 
 font-weight: 600;
 
@@ -872,7 +872,7 @@ width: 84%;
     right: -46px;
 }
 .check_buttn a:hover {
-background-color: #4e335e;
+background-color: #9a93ff;
     color: #fff;
 }
 .check_buttn a {transition: 0.7s all ease-in-out;color: #fff;background-color: #4ce1b2;font-weight: 600;border: 0;display: block;width: 26%;height: 50px;text-decoration: none;text-align: center;outline: none;border-radius: 25px;padding: 12px 0 0 0;margin: 36px auto 0 auto;font-size: 19px;font-family: 'Khand', sans-serif;}
@@ -939,7 +939,7 @@ font-size: 22px;
 }
 .unique_txt p {color: #999999;font-weight: 400;font-size: 17px;font-family: 'Khand', sans-serif;margin: 11px 0;line-height: 25px;}
 .place_order a:hover {
-  background-color: #4e335e;
+  background-color: #9a93ff;
     color: #fff;
 }
 .place_order a {
@@ -1066,7 +1066,7 @@ width: 68%;
 margin: 0 auto;
 }
 .first_order a:hover {
-  background-color: #4e335e;
+  background-color: #9a93ff;
     color: #fff;
 }
 .first_order a {transition: 0.7s all ease-in-out;color: #fff;background-color: #4ce1b2;font-weight: 600;border: 0;display: block;width: 30%;height: 50px;text-decoration: none;text-align: center;outline: none;border-radius: 25px;padding: 12px 0 0 0;margin: 30px auto 0 auto;font-size: 19px;font-family: 'Khand', sans-serif;}
@@ -1164,7 +1164,7 @@ font-weight: 600;
 }
 .price_txt2 button:hover {
 
-  background-color: #4e335e;
+  background-color: #9a93ff;
   color: #fff;
 }
 

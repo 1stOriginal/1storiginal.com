@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="32px" viewBox="0 0 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-fashion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-16.4935831%" y1="347.79049%" x2="100%" y2="-86.3154294%" id="linearGradient-1">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-12.3291016%" y1="100%" x2="100%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-183.215332%" y1="169.702148%" x2="126.660156%" y2="-191.638184%" id="linearGradient-3">
+            <stop stop-color="#A159FF" offset="0%"></stop>
+            <stop stop-color="#985DFE" offset="11.88%"></stop>
+            <stop stop-color="#8069FB" offset="31.1%"></stop>
+            <stop stop-color="#597DF6" offset="55.24%"></stop>
+            <stop stop-color="#2498EF" offset="83.09%"></stop>
+            <stop stop-color="#00AAEA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cmp-Home-page-v5" transform="translate(-168.000000, -4841.000000)" stroke-width="2">
+            <g id="Writer-Specialization" transform="translate(169.000000, 4400.000000)">
+                <g id="Row1" transform="translate(0.000000, 169.000000)">
+                    <g id="Category-group1" transform="translate(0.000000, 1.000000)">
+                        <g id="ico-fashion" transform="translate(0.000000, 272.000000)">
+                            <path d="M8.34444444,11.9512485 L28,5" id="Shape" stroke="url(#linearGradient-1)"></path>
+                            <path d="M8,26 L8,9 C8,7.92984542 9.03333333,6.32104637 10,6 L25,1 C26.5037037,0.464922711 28,1.39476813 28,3 L28,22" id="Shape" stroke="url(#linearGradient-2)"></path>
+                            <circle id="Oval" stroke="#A159FF" cx="4" cy="26" r="4"></circle>
+                            <circle id="Oval" stroke="url(#linearGradient-3)" cx="24" cy="22" r="4"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
